@@ -16,4 +16,3 @@ if(random1 > random2){
 }
 }
 
-var head = document.querySelector("h1");
